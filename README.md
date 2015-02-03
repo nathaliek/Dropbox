@@ -16,4 +16,4 @@ User can follow the sign in flow.
 User can tap the area for "Having trouble signing in?"
 User can log out from the Settings screen.
 
-<img src="https://github.com/nathaliek/Dropbox/blob/master/Dropbox.gif>
+<img src="https://github.com/nathaliek/Dropbox/blob/master/Dropbox.gif">
